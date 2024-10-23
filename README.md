@@ -6,6 +6,7 @@ This repository contains code for a Retrieval-Augmented Generation (RAG) applica
 
 ### Step 1: Open the Notebook
 - Open the `RAG_GOOGLE_COLLAB_CODE.ipynb` file in **Google Colab** or **Jupyter Notebook**.
+- https://colab.research.google.com/drive/18cV5bpfV_Eq9450ek5Ibnjx06L7yighR?usp=sharing
 
 ### Step 2: Prepare the Environment
 - Add a `.env` file with the necessary API keys and configurations.
